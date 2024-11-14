@@ -5,3 +5,5 @@ Hi, I'm Shadab, and this is my design of an RC Plane inspired by the WWII german
 The entire plane's assembly with all subassemblies can be downloaded from Final-Aircraft.zip, found in Parts/Aircraft. Otherwise, each subassembly can be acquired individually by downloading their respective zip folders.
 
 ![SolidWorks Screenshot](./Images/RC-Plane-Model.png)
+
+![Four-way View Screenshot](./Images/Four-View.png)
